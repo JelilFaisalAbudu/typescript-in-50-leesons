@@ -1,4 +1,4 @@
-# TYPESCRIPT IN 50 LESSONS - CHAPTER ONE
+# TYPESCRIPT IN 50 LESSONS - LESSON ONE
 
 In this chapter, we learn about how to leverage on  the modern code editor's(in my case, it's VS Code) TypeScript extension to analyze our vanilla Javascript code.
 
