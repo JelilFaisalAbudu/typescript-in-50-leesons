@@ -1,4 +1,4 @@
-# TYPESCRIPT IN 50 LESSONS - LESSON THREE: TYPES
+# TYPESCRIPT IN 50 LESSONS - LESSON THREE AND FOUR: TYPES
 
 In this lesson we're going to learn about how to use the TypeScript's types and shapes in conjunction with JSDoc to further improve on our vanilla JavaScript code.
 
