@@ -16,5 +16,8 @@ To mitigate the above mentioned problems, we use type declaration files (.d.ts).
   
 - You import your custom type from the .d.ts files for use in JSDoc like this:
   
-`@typedef { import("location-to-your-file.d").<typeName> } <typeName>`
-  
+`@typedef { import("location-to-your-file.d").<typeName> } <typeName>` where:
+
+`location-to-your-file.d` is the path to the type declaration file.
+
+`<typeName>` is the type alias (the name of your custom type).
